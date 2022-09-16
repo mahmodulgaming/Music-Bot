@@ -12,4 +12,4 @@
 **5.** start the bot with **`node index.js`**
 
 NOTE:
-If you are having errors/problems with starting delete the **`package.json`** file and do, before you install the packages "npm init"
+If you are having errors/problems with starting delete the **`package.json`** file and do, before you install the packages **`npm init`**
